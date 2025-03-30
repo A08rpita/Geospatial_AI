@@ -218,22 +218,10 @@ Response:
 - 🌍 **3D Visualizations:** Render deforestation/pollution impact on 3D maps.  
 - 🔥 **Historical Data Analysis:** Use time-series data to predict future disasters.  
 
----
-
-## 📄 **License**
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it.  
-
----
 
 ## 🙌 **Contributors**
-- **Arpita Khobragade** – [GitHub](https://github.com/Arpita-Khobragade)  
-- **Open Source Contributors**  
+- **Arpita Khobragade**
+- **Dnyanada Thorat**
 
 ---
 
-✅ This **README.md** provides a detailed overview, installation guide, and usage instructions for your **Geospatial AI project**. 🚀
-```
-
----
-
-✅ You can copy and save this as `README.md` in the root folder of your project. This file gives a detailed and professional overview of your **Geospatial AI project**! 🚀
