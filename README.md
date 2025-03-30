@@ -123,7 +123,7 @@ Frontend will be available at:
 - `/evacuation` → Predict evacuation routes.  
 - `/environment` → Monitor pollution or deforestation.  
 
----
+
 
 ## ⚙️ **Model Training**
 
@@ -140,7 +140,7 @@ pickle.dump(model, open('disaster_model.pkl', 'wb'))
 ```
 - Store the `.pkl` files in the `backend/models` folder.  
 
----
+
 
 ## 🚀 **Deployment**
 
